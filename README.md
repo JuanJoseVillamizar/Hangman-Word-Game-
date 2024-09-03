@@ -60,3 +60,5 @@ Word to guess: _ i _ _ _ i _ _ _ _ a _ (12 letters)
 Congratulations! You guessed the secret word: inteligencia!
 
 ```
+## Acknowledgements
+- This project was developed with guidance from Sergi Code's YouTube tutorial. You can check out the [Sergi Code YouTube Channel](https://www.youtube.com/@SergieCode) for detailed programming tutorials and examples.
